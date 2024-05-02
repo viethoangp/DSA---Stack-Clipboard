@@ -1,0 +1,48 @@
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.Form1.resources
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.GenerateResource.cache
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfoInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfo.cs
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.exe
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.deps.json
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.runtimeconfig.json
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\refint\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.genruntimeconfig.cache
+C:\Users\tulev\OneDrive\Máy tính\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\ref\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.exe
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.deps.json
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.runtimeconfig.json
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.Form1.resources
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.GenerateResource.cache
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfoInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfo.cs
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\refint\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.genruntimeconfig.cache
+C:\Users\tulev\OneDrive\Máy tính\New folder\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\ref\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.exe
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.deps.json
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.runtimeconfig.json
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\bin\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.Form1.resources
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.GenerateResource.cache
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfoInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.AssemblyInfo.cs
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.csproj.CoreCompileInputs.cache
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\refint\Winform_Clipboard.dll
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.pdb
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\Winform_Clipboard.genruntimeconfig.cache
+C:\Users\tulev\OneDrive\Máy tính\CTDL cuối kì\GOOOCS\Winform_Clipboard\Winform_Clipboard\obj\Debug\net8.0-windows\ref\Winform_Clipboard.dll
